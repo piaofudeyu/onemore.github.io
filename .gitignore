@@ -147,3 +147,8 @@ Desktop.ini
 ######################
 .eslintcache
 /.mvn/
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
